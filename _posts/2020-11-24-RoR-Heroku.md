@@ -18,3 +18,5 @@ If you are interested in following along on my journey, then stay tuned! I'll be
 ### 2. [Devise](/devise)
 ### 3. [Sticky Hamburger Header](/Sticky-Hamburger-Header)
 ### 4. [Homepage](/homepage)
+### 5. [Assets](/assets)
+### 6. [Authentication](/authentication)
