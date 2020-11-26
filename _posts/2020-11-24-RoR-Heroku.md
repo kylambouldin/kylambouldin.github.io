@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Ruby on Rails project hosted on Heroku"
+order: 2
 ---
 
 When I joined ActNeutral, they had already contracted out the website. It was hosted on Wordpress and used the WooCommerce plugin to handle membership subscriptions. I thought this would be great and that the website would practically run itself.All I would need to do is maintain a couple drag and drop pages. However, I should have expected that the other 3 members on the team would want very customized features.
@@ -14,3 +15,6 @@ If you are interested in following along on my journey, then stay tuned! I'll be
 
 ## Table of Contents
 ### 1. [Setup](/setup)
+### 2. [Devise](/devise)
+### 3. [Sticky Hamburger Header](/Sticky-Hamburger-Header)
+### 4. [Homepage](/homepage)

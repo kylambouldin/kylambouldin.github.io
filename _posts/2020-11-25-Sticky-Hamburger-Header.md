@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sticky Hamburger Header
+order: 5
 ---
 
 Today I will implement a nav bar header for the new site. I want this header to contain the logo on the left and links to the other pages on the right. On a mobile screen, I want the header to collapse down into a hamburger menu. My goal is to not use any Javascript and just used pure CSS. Lets get started!
