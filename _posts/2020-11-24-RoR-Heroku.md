@@ -20,3 +20,4 @@ If you are interested in following along on my journey, then stay tuned! I'll be
 ### 4. [Homepage](/homepage)
 ### 5. [Assets](/assets)
 ### 6. [Authentication](/authentication)
+### 7. [Rspec](/rspec)

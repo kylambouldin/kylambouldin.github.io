@@ -80,7 +80,7 @@ get '/admin' => 'admin#admin', as: :admin
 The last little thing is to redirect your users after they login to the correct location. This is another Devise method that you add in your main `ApplicationController`
 ```
 def after_sign_in_path_for(resource)
-  if current_user.admin?
+  if resource.admin?
     admin_path
   else
     dashboard_path
