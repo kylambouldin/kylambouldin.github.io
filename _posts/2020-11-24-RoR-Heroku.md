@@ -21,3 +21,4 @@ If you are interested in following along on my journey, then stay tuned! I'll be
 ### 5. [Assets](/assets)
 ### 6. [Authentication](/authentication)
 ### 7. [Rspec](/rspec)
+### 8. [Database Migration](/Database-Migration)
