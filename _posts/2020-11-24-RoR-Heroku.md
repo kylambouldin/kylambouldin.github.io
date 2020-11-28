@@ -22,3 +22,4 @@ If you are interested in following along on my journey, then stay tuned! I'll be
 ### 6. [Authentication](/authentication)
 ### 7. [Rspec](/rspec)
 ### 8. [Database Migration](/Database-Migration)
+### 9. [Stripe](/stripe)
